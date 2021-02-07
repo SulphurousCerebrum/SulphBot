@@ -1,2 +1,0 @@
-# SulphBot
-SulphBot
